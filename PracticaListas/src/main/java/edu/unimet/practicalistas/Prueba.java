@@ -3,6 +3,9 @@ package edu.unimet.practicalistas;
 public class Prueba {
 
     public static void main(String[] args) {
+        
+        System.out.println("Practia Lista");
+        
         String[][] canciones = {
             {"Bohemian Rhapsody", "Queen", "A Night at the Opera", "354", "Rock"},
             {"Love of My Life", "Queen", "A Night at the Opera", "219", "Rock"},
