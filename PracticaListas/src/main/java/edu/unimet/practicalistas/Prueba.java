@@ -5,6 +5,7 @@ public class Prueba {
     public static void main(String[] args) {
         
         System.out.println("Practia Lista");
+        System.out.println("Practica Lista2");
         
         String[][] canciones = {
             {"Bohemian Rhapsody", "Queen", "A Night at the Opera", "354", "Rock"},
